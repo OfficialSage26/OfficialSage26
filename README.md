@@ -22,16 +22,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OfficialSage26&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OfficialSage26&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOURLINK">LinkedIn</a> •
-  <a href="https://portfolio-link.com">Portfolio</a>
+  <a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a> •
+  <a href="https://your-portfolio-link.com">Portfolio</a>
 </p>
 
 ---
