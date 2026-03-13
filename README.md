@@ -7,23 +7,23 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 BSIT Student passionate about software engineering  
-- 💻 Full-Stack Developer focused on scalable web & system applications  
-- 🔐 Currently diving deep into Cybersecurity & secure coding practices  
-- ⚡ Advocate of Clean Architecture, performance optimization & maintainable code  
-- 📱 Frontend Mobile Developer crafting smooth user experiences  
+-  BSIT Student passionate about software engineering  
+-  Full-Stack Developer focused on scalable web & system applications  
+-  Currently diving deep into Cybersecurity & secure coding practices  
+-  Advocate of Clean Architecture, performance optimization & maintainable code  
+-  Frontend Mobile Developer crafting smooth user experiences  
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,java,python,mysql,firebase,tailwind,git,js,cpp" />
 </p>
 
-### 💡 Core Focus
+###  Core Focus
 - **Frontend:** React, Next.js, Tailwind  
 - **Backend:** Node.js, Express  
 - **Database:** MySQL, Firebase  
@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OfficialSage26&show_icons=true&theme=tokyonight" />
@@ -41,7 +41,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/john-ashly-gasacao-ab457b33b" target="_blank">
@@ -57,4 +57,4 @@
 
 ---
 
-<h2 align="center">⭐ Always Building. Always Learning. Always Leveling Up.</h2>
+<h2 align="center"> Always Building. Always Learning. Always Leveling Up.</h2>
