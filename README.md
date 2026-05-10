@@ -39,7 +39,7 @@
   <img src="https://streak-stats.demolab.com?user=OfficialSage26&theme=tokyonight&cache_seconds=1800" />
 </p>
 
----
+<!---
 
 ##  Connect With Me
 
@@ -55,6 +55,6 @@
   </a>
 </p>
 
----
+--->
 
 <h2 align="center"> Always Building. Always Learning. Always Leveling Up.</h2>
