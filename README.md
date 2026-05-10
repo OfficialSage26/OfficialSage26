@@ -1,4 +1,4 @@
-//<h1 align="center">John Ashly Gasacao</h1>
+<!--- <h1 align="center">John Ashly Gasacao</h1> */--->
 <h3 align="center">Full-Stack Developer • System Architect • Aspiring Cybersecurity Specialist • Mobile Developer</h3>
 
 <p align="center">
